@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I love lentils ~
+That's what she said
 Use the left arrow to go back!
